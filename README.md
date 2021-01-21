@@ -7,3 +7,7 @@ backend api use stripi cms, check [this repo](https://github.com/djdeo/flutter-c
 go to the admin link [localhost:1337/admin](localhost:1337/admin) to manully manage the `Posts` model
 
 `yarn build` to build the project
+
+## credit
+
+this repo is inspired by [shaun](https://github.com/iamshaunjp)'s repo [https://github.com/iamshaunjp/Vue-3-Firebase](https://github.com/iamshaunjp/Vue-3-Firebase)
